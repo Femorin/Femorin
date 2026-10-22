@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=180&section=header&text=Femorin&fontSize=56&fontColor=ffffff&fontAlignY=40&stroke=000000&strokeWidth=2" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=180&section=header&text=Femorin&fontSize=56&fontColor=ffffff&fontAlignY=40&stroke=000000&strokeWidth=4" width="100%" alt="Header Banner" />
 </p>
 
 
