@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff5&height=180&section=header&text=Femorin&fontSize=56&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=180&section=header&text=Femorin&fontSize=56&fontColor=ffffff&fontAlignY=40&stroke=000000&strokeWidth=2" width="100%" alt="Header Banner" />
 </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=65&lines=Hi%2C+I'm+Daniil+Havrysh+(Femorin)+%F0%9F%91%8B;Fullstack+%26+AI+Automation+Engineer+%E2%9A%A1;Building+Autonomous+AI+Agents+%26+Bots+%F0%9F%A4%96;High-Performance+Web+Apps+%26+Scraping+Pipelines+%F0%9F%9A%80;Applied+Informatics+%40+TUKE+(Slovakia)+%F0%9F%87%B8%F0%9F%87%B4" alt="Typing SVG" />
